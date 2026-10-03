@@ -1,8 +1,13 @@
 
 <h1>
   <img src="https://github.com/mehah/otclient/blob/main/data/images/clienticon.png?raw=true" width="32" alt="logo"/>
-  OTClient - Redemption
+  OTClient - Redemption - Edited by Adriano Swatt'
 </h1>
+
+<h2>
+Download compiled Windows:
+https://www.mediafire.com/file/a2c2u14j1zxb00l/otclient-iswatt.7z/file
+</h2>
 
 [![Discord Shield](https://discordapp.com/api/guilds/888062548082061433/widget.png?style=shield)](https://discord.gg/tUjTBZzMCy)
 [![CI](https://github.com/opentibiabr/otclient/actions/workflows/ci.yml/badge.svg)](https://github.com/opentibiabr/otclient/actions/workflows/ci.yml)
